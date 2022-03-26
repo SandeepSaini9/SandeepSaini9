@@ -6,6 +6,6 @@
 - Mail me at sandeepsaini74608@gmail.com
 - www.linkedin.com/in/sandeep-saini-6a32801b3/
 
-- [![SandeepSaini's github stats](https://github-readme-stats.vercel.app/api?username=SandeepSaini9&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+- [![SandeepSaini's github stats](https://github-readme-stats.vercel.app/api?username=SandeepSaini9&count_private=true&show_icons=true&theme=gruvbox_light&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 -[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSaini9)](https://github.com/SandeepSaini9/github-readme-stats)
