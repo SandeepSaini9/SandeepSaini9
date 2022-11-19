@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-- 👋 Hi, I’m a CSIT Student
+- 👋 I’m a CSIT Student
 - 👀 I’m interested in ...App Development
 - 🌱 I’m currently working on Android Projects
 - 💬 Ask me about Android Development or any tech related stuff.
