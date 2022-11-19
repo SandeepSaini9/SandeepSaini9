@@ -1,7 +1,12 @@
+# Sandeep-Saini
+
+### Hello there 👋
+
 - 👋 Hi, I’m @SandeepSaini9
 - 👀 I’m interested in ...App Development
-- 🌱 I’m currently learning ...Full Time Flutter Development
-- 💞️ I’m looking to collaborate in ...Flutter Development and Kotlin Development
+- 🌱 I’m currently working on Android Projects
+- 💬 Ask me about Android Development or any tech related stuff.
+- 💞️ I’m looking to collaborate in ...Kotlin Development
 - 📫 How to reach me 
 - Mail me at sandeepsaini74608@gmail.com
 - www.linkedin.com/in/sandeep-saini-6a32801b3/
