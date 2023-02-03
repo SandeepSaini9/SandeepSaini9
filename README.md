@@ -24,5 +24,5 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose_ 🥽.
 ## 🔗 Know more about me 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandeepsaini.me/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](sandeepsaini74608@gmail.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:hi@sandeepsaini74608@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sandeep-saini-6a32801b3/)
