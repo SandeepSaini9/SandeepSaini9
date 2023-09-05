@@ -1,4 +1,4 @@
-# Hi there👋! I'm [Sandeep Saini](https://sandeepsaini.me/) 🙋‍♂️
+# Hi there👋! I'm [Sandeep Saini](https://sandeepsaini.tech/)) 🙋‍♂️
 
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose_ 🥽.
